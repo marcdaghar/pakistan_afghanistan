@@ -1,0 +1,38 @@
+{
+    "country": "Afghanistan",
+    "year": 2025,
+    "description": "Paramètres estimés pour l'Afghanistan post-2021",
+    "parameters": {
+        "need_minimal": 0.05,
+        "production_mean": 0.6,
+        "production_amplitude": 0.7,
+        "cycle_period": 14,
+        "debt_to_gdp": 0.0,
+        "interest_rate": 0.0,
+        "inflation": 0.35,
+        "vulnerable_population": 0.60,
+        "initial_stock": 0.2,
+        "initial_debt": 0.0
+    },
+    "yusuf_parameters": {
+        "gamma_high": 0.45,
+        "gamma_low": 0.80,
+        "threshold_ratio": 0.20
+    },
+    "shocks": {
+        "drought": {
+            "year": 30,
+            "magnitude": 0.6
+        },
+        "political": {
+            "year": 50,
+            "magnitude": 0.4
+        }
+    },
+    "context": {
+        "banking_system": "effondré",
+        "reserves": "gelées",
+        "famine_risk": "élevé",
+        "aid_dependency": "très élevé"
+    }
+}
