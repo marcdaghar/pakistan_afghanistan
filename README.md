@@ -45,5 +45,4 @@ Le modèle compare deux systèmes économiques sur 100 ans :
 
 #### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/username/yusuf-counter-cycle.git
-cd yusuf-counter-cycle
+git clone https://github.com/marcdaghar/pakistan_afghanistan.git
