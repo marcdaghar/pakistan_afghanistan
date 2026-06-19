@@ -1,0 +1,25 @@
+{
+    "country": "Pakistan",
+    "year": 2025,
+    "parameters": {
+        "debt_to_gdp": 0.75,
+        "interest_rate": 0.22,
+        "inflation": 0.25,
+        "vulnerable_population": 0.40,
+        "production_mean": 1.0,
+        "production_amplitude": 0.5,
+        "need_minimal": 0.06,
+        "cycle_period": 14
+    },
+    "shocks": {
+        "flood_2022": {
+            "year": 35,
+            "magnitude": 0.5
+        }
+    },
+    "yusuf_parameters": {
+        "gamma_high": 0.5,
+        "gamma_low": 0.85,
+        "threshold_ratio": 0.25
+    }
+}
